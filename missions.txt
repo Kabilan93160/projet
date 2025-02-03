@@ -1,0 +1,20 @@
+1 GIT :
+1.1 pour trouver comment faire un git init je suis aller sur le dossier cours :1. Git Concept de base
+2 pour trouver comment faire un git commits je suis aller sur le cours: Les Bases : Commits : git commit
+2.1 pour ajouter les document dans le commits j'ai essayer de trouver par moi meme puis
+ j'ai utilisé les cours:Les Bases : Commits git add 
+ 2.2 commande utilisé grace au cours :git -m "...."
+
+
+2 GITHUB:
+2 j'ai utiliser le code qui est dans le cours : # Lier votre repo local à un repo distant
+git remote add origin https://github.com/votre-nom/mon-projet.git
+3 j'ai rencontrer des probleme pour avoir le code sur githube j'ai du refer un git commit -m ""
+et un git push j'ai recuperer ses commande aved l'aide du prof et des cours 
+
+
+3 COLABORATION 
+1: J'ai trouver le code a l'aide du cours git clone  https://github.com/votre-nom/mon-projet.git
+2: trouver avec le cours commande : git branch 
+4 utiliser git commit 
+5 j'ai pas reussi j'ai eu besoin de l'aide du prof est le probleme etait que je n'avais pas utiliser git commit apres le git add 
